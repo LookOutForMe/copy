@@ -1,0 +1,20 @@
+{
+  "token": "NDczNzIyMDE0NTY2MzE4MDgy.Dk_bhQ.clqdmTEwDZjWp8VpJDyHy15DSxU",
+  "mailGuildId": "470623311135637525",
+  "mainGuildId": "393088095840370689",
+  "logChannelId": "473861361806344224",
+  "closeMessage": "**If you should have any other questions,concerns or inquiries,do not hesitate to contact us back.** \n ***Conversation Closed***",
+  "status": "Message me to contact staff!💬",
+  "responseMessage": "Thank you for your message! Our staff team will reply to you here as soon as possible.",
+  "alwaysReplyAnon": "true",
+  "port": "3000",
+  "newThreadCategoryId": "474173245478928385",
+  "relaySmallAttachmentsAsAttachments": "true",
+  "smallAttachmentLimit": "8000000",
+  "threadTimestamps": "true",
+  "typingProxy": "true",
+  "pingOnBotMention": "false",
+  "ignoreAccidentalThreads": "true",
+  "requiredAccountAge": "24h",
+  "accountAgeDeniedMessage": "Your Discord account is not old enough to contact modmail."
+}
